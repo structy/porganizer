@@ -1,0 +1,169 @@
+{
+    "project_name": "porganizer",
+    "project_site": "https://github.com/structy/porganizer",
+    "project_repo": "git@github.com:structy/porganizer.git",
+    "labels": [
+		{
+			"name": "Category: Backend",
+			"color": "c2e0c6"
+		},
+		{
+			"name": "Category: Frontend",
+			"color": "bfdadc"
+		},
+		{
+			"name": "Category: Infrastructure",
+			"color": "f0e68c"
+		},
+		{
+			"name": "Category: Report",
+			"color": "40e0d0"
+		},
+		{
+			"name": "Category: Good First Issue",
+			"color": "7057ff",
+			"aliases": [
+				"beginner-friendly",
+				"beginner",
+				"good-starter-issue",
+				"good for beginner",
+				"Good for beginners",
+				"starter-issue",
+				"starter",
+				"Patch Welcome",
+				"Status: Ready for PR"
+			]
+		},
+		{
+			"name": "Level: Easy",
+			"color": "48d1cc"
+		},
+		{
+			"name": "Level: Medium",
+			"color": "20b2aa"
+		},
+		{
+			"name": "Level: Hard",
+			"color": "008b8b"
+		},
+		{
+			"name": "Priority: Critical",
+			"color": "ee0701"
+		},
+		{
+			"name": "Priority: High",
+			"color": "d93f0b"
+		},
+		{
+			"name": "Priority: Low",
+			"color": "0e8a16"
+		},
+		{
+			"name": "Priority: Medium",
+			"color": "fbca04"
+		},
+		{
+			"name": "Status: Abandoned",
+			"color": "000000",
+			"aliases": [
+				"wontfix",
+				"invalid"
+			]
+		},
+		{
+			"name": "Status: Duplicated",
+			"color": "ededed"
+		},
+		{
+			"name": "Status: Blocked",
+			"color": "ee0701",
+			"aliases": [
+				"blocked"
+			]
+		},
+		{
+			"name": "Status: Impediment",
+			"color": "b60205"
+		},
+		{
+			"name": "Status: In Progress",
+			"color": "cccccc"
+		},
+		{
+			"name": "Status: Proposal",
+			"color": "d4c5f9",
+			"aliases": [
+				"idea",
+				"Idea",
+				"proposal",
+				"Proposal",
+				"discussion"
+			]
+		},
+		{
+			"name": "Status: Review Needed",
+			"color": "ff8c00"
+		},
+		{
+			"name": "Type: Breaking Change",
+			"color": "b60205",
+			"aliases": [
+				"breaking",
+				"breaking-change"
+			]
+		},
+		{
+			"name": "Type: Bug",
+			"color": "ee0701",
+			"aliases": [
+				"bug"
+			]
+		},
+		{
+			"name": "Type: Improvement",
+			"color": "84b6eb"
+		},
+		{
+			"name": "Type: Feature",
+			"color": "1d76db",
+			"aliases": [
+				"enhancement"
+			]
+		},
+		{
+			"name": "Type: Sub-task",
+			"color": "ededed"
+		},
+		{
+			"name": "Type: Documentation",
+			"color": "5319e7",
+			"aliases": [
+				"documents",
+				"document"
+			]
+		},
+		{
+			"name": "Type: Refactoring",
+			"color": "fbca04"
+		},
+		{
+			"name": "Type: Maintenance",
+			"color": "0e8a16",
+			"aliases": [
+				"greenkeeper",
+				"maintenance",
+				"refactor",
+				"testing",
+				"test"
+			]
+		},
+		{
+			"name": "Type: Question",
+			"color": "cc317c",
+			"aliases": [
+				"questions",
+				"question"
+			]
+		}
+    ]
+}
