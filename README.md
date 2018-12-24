@@ -2,6 +2,8 @@
 
 project organizer, good practice and project assistance
 
+We started using the [coderockr-way-github-setup](https://github.com/Coderockr/coderockr-way-github-setup) (*we also contributed*), until starting to have needs where shell script start to grow, this was the time to write the **porganizer**
+
 ## Default label
 
 - ![#c2e0c6](https://placehold.it/15/c2e0c6/000000?text=+) Category: Backend
