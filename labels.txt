@@ -1,0 +1,28 @@
+Category: Backend,c2e0c6
+Category: Frontend,bfdadc
+Category: Infrastructure,f0e68c
+Category: Report,40e0d0
+Category: Good First Issue,7057ff
+Level: Easy,48d1cc
+Level: Medium,20b2aa
+Level: Hard,008b8b
+Priority: Critical,ee0701
+Priority: High,d93f0b
+Priority: Low,0e8a16
+Priority: Medium,fbca04
+Status: Abandoned,000000
+Status: Duplicated,ededed
+Status: Blocked,ee0701
+Status: Impediment,b60205
+Status: In Progress,cccccc
+Status: Proposal,d4c5f9
+Status: Review Needed,ff8c00
+Type: Breaking Change,b60205
+Type: Bug,ee0701
+Type: Improvement,84b6eb
+Type: Feature,1d76db
+Type: Sub-task,ededed
+Type: Documentation,5319e7
+Type: Refactoring,fbca04
+Type: Maintenance,0e8a16
+Type: Question,cc317c
