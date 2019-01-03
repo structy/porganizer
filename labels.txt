@@ -26,3 +26,4 @@ Type: Documentation,5319e7
 Type: Refactoring,fbca04
 Type: Maintenance,0e8a16
 Type: Question,cc317c
+Type: Security,ee0701
