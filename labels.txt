@@ -2,7 +2,6 @@ Category: Backend,c2e0c6
 Category: Frontend,bfdadc
 Category: Infrastructure,f0e68c
 Category: Report,40e0d0
-Category: Good First Issue,7057ff
 Level: Easy,48d1cc
 Level: Medium,20b2aa
 Level: Hard,008b8b

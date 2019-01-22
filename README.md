@@ -10,8 +10,6 @@ We started using the [coderockr-way-github-setup](https://github.com/Coderockr/c
 - ![#bfdadc](https://placehold.it/15/bfdadc/000000?text=+) Category: Frontend
 - ![#f0e68c](https://placehold.it/15/f0e68c/000000?text=+) Category: Infrastructure
 - ![#40e0d0](https://placehold.it/15/40e0d0/000000?text=+) Category: Report
-- ![#7057ff](https://placehold.it/15/7057ff/000000?text=+) Category: Good First Issue
-  - Easy to fix issue
 - ![#48d1cc](https://placehold.it/15/48d1cc/000000?text=+) Level: Easy
 - ![#20b2aa](https://placehold.it/15/20b2aa/000000?text=+) Level: Medium
 - ![#008b8b](https://placehold.it/15/008b8b/000000?text=+) Level: Hard
