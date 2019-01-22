@@ -35,4 +35,4 @@ We started using the [coderockr-way-github-setup](https://github.com/Coderockr/c
   - Related: [Conventional Commits](https://www.conventionalcommits.org/)
 - ![#cc317c](https://placehold.it/15/cc317c/000000?text=+) Type: Question
 - ![#ee0701](https://placehold.it/15/ee0701/000000?text=+) Type: Security
-- ![#bfd4f2](https://placehold.it/15/ee0701/000000?text=+) Type: Tech Debt
+- ![#bfd4f2](https://placehold.it/15/bfd4f2/000000?text=+) Type: Tech Debt
