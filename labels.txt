@@ -26,3 +26,4 @@ Type: Refactoring,fbca04
 Type: Maintenance,0e8a16
 Type: Question,cc317c
 Type: Security,ee0701
+Type: Tech Debt,bfd4f2
