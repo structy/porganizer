@@ -36,3 +36,12 @@ We started using the [coderockr-way-github-setup](https://github.com/Coderockr/c
 - ![#cc317c](https://placehold.it/15/cc317c/000000?text=+) Type: Question
 - ![#ee0701](https://placehold.it/15/ee0701/000000?text=+) Type: Security
 - ![#bfd4f2](https://placehold.it/15/bfd4f2/000000?text=+) Type: Tech Debt
+
+
+## How to
+
+```shell
+git clone -b feature/label-file git@github.com:avelino/coderockr-way-github-setup.git
+cd coderockr-way-github-setup
+sh coderockr-way-github-setup.bash -v -f <structy/porganizer FOLDER >/labels.txt <GITHUB USER OR ORGANIZATION NAME>/<PROJECT NAME>
+```
