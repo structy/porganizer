@@ -24,6 +24,7 @@ We started using the [coderockr-way-github-setup](https://github.com/Coderockr/c
 - ![#cccccc](https://placehold.it/15/cccccc/000000?text=+) Status: In Progress
 - ![#d4c5f9](https://placehold.it/15/d4c5f9/000000?text=+) Status: Proposal
 - ![#ff8c00](https://placehold.it/15/ff8c00/000000?text=+) Status: Review Needed
+- ![#84b6eb](https://placehold.it/15/84b6eb/000000?text=+) Type: Analyze
 - ![#b60205](https://placehold.it/15/b60205/000000?text=+) Type: Breaking Change
 - ![#ee0701](https://placehold.it/15/ee0701/000000?text=+) Type: Bug
 - ![#84b6eb](https://placehold.it/15/84b6eb/000000?text=+) Type: Improvement

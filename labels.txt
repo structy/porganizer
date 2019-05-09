@@ -16,6 +16,7 @@ Status: Impediment,b60205
 Status: In Progress,cccccc
 Status: Proposal,d4c5f9
 Status: Review Needed,ff8c00
+Type: Analyze,84b6eb
 Type: Breaking Change,b60205
 Type: Bug,ee0701
 Type: Improvement,84b6eb
